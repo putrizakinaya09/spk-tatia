@@ -5,17 +5,3 @@ const supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYm
 
 export const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
-
-
-
-
-
-
-
-
-
-
-
-
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
