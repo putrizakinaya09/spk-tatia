@@ -26,7 +26,7 @@ function Navbar() {
                         <li><a href="/task">Data Tugas</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">Gabriel Yonathan</a>
+                <a className="btn btn-ghost text-xl">Tatia Zakinaya</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal space-x-4 px-1">
